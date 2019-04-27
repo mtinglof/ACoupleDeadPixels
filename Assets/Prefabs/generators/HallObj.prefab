@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8276019766708354366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7356530829804722986}
+  - component: {fileID: 676517825421807551}
+  m_Layer: 0
+  m_Name: HallObj
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7356530829804722986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8276019766708354366}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.8099537, y: 0.08269782, z: -0.5049907}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &676517825421807551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8276019766708354366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d729f9420c37a9649b70c846ef9530c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wallTiles:
+  - {fileID: 6749490869533354866, guid: 792f5b5e08233e74c9756c793700fd0b, type: 3}
+  - {fileID: 3971992603958140228, guid: 315273f0b46c792489bf556993d01af3, type: 3}
+  - {fileID: 5566811397767555534, guid: 6111ebe602f15544ab87e21baffb7399, type: 3}
+  - {fileID: 7046466513039801808, guid: 572034124ab40c24c89e9d4c9c7f8fa6, type: 3}
+  - {fileID: 3766846367641155078, guid: 108d04134b0fb004397cb76584f8cca5, type: 3}
+  - {fileID: 3420040696248008221, guid: 59761aaffd2f9f642ba694729adcb26c, type: 3}
+  - {fileID: 8687144513918409337, guid: ed5012478fe9f15458fa791a49a3b754, type: 3}
+  - {fileID: 6919650202733408987, guid: b7c3dd8fb2713f846b2def51ea349d26, type: 3}
+  - {fileID: 8186763172465021850, guid: 5155525218e83b14a92503787a223040, type: 3}
+  - {fileID: 3139515051800297219, guid: 3be0a718e7b282543bb7a918ef4c029b, type: 3}
+  doorTiles:
+  - {fileID: 5002881162115153704, guid: 3316fea92626ef048aec55f59c9d983d, type: 3}
+  - {fileID: 5002881162115153704, guid: 3316fea92626ef048aec55f59c9d983d, type: 3}
+  - {fileID: 428824711881311344, guid: b1cac07aa6cf84e488933bf5988e6d18, type: 3}
+  - {fileID: 428824711881311344, guid: b1cac07aa6cf84e488933bf5988e6d18, type: 3}
+  - {fileID: 278826970758282945, guid: edb770926e86f9b4783012401415e43b, type: 3}
+  windowTiles:
+  - {fileID: 6668378513857344200, guid: 262520b2c5513cd4d9f410d9e1a8a9d8, type: 3}
+  - {fileID: 1229940525909975642, guid: d72689599216eff4fb4977d8f004fb0e, type: 3}
+  electronics:
+  - {fileID: 3811146393766023348, guid: cc0e3d76450d54544938f412076d2ffe, type: 3}
+  - {fileID: 1872897563985827947, guid: 369d8542441347c4d8ab9d783540c014, type: 3}
+  - {fileID: 788223642146379224, guid: 81aac5a2265e95b4f812411c0df8e178, type: 3}
+  - {fileID: 3297577040752600266, guid: 52444b08960b7044fb739640ef2abbe1, type: 3}
+  - {fileID: 3362420564000479952, guid: cdae75733c17c80448ef733aa70cb114, type: 3}
+  - {fileID: 3019825973871809979, guid: 28a70a65fc6acc446bd39189bfb3600d, type: 3}
+  - {fileID: 7166864123877330881, guid: 63b00dfd1dd95ac48b3f67fec3cd9e0c, type: 3}
+  - {fileID: 133245632434297746, guid: 44b7c807b57a4d14784d67aaa7f5cb9e, type: 3}
+  - {fileID: 2732746992050285888, guid: 06b4ac8890dba8a438495a85944d9fa7, type: 3}
+  - {fileID: 7717978089415551542, guid: 6145b2595fd16cc4685b13fad2030e00, type: 3}
+  - {fileID: 6027025919633958058, guid: 9e7311c1cc56315458b063c42686a0ae, type: 3}
+  floorTile: {fileID: 7967765924018462444, guid: c70ce4f9dce50ae45972c1f1dfc80a56,
+    type: 3}

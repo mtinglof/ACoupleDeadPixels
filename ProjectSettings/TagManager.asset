@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - door
+  - enemy
+  - floor
+  - player
+  - background
+  - elevator
+  - button
+  - parts
+  - hall
+  - room
+  - doorway
+  - doorcontrol
+  - hal
+  - enddoor
+  - laser
+  - pod
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - blocking
+  - background
+  - alienbody
+  - alienattack
+  - george
+  - interaction
+  - georgeattack
+  - laser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: space
+    uniqueID: 2613754903
+    locked: 0
+  - name: background
+    uniqueID: 3868069815
+    locked: 0
+  - name: walls
+    uniqueID: 4253409833
+    locked: 0
+  - name: button
+    uniqueID: 3105250731
+    locked: 0
+  - name: blocking
+    uniqueID: 3457377145
+    locked: 0
+  - name: door
+    uniqueID: 3880709213
+    locked: 0
+  - name: entity
+    uniqueID: 2682545869
+    locked: 0
+  - name: outside
+    uniqueID: 2828672605
+    locked: 0
