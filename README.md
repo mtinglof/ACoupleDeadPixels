@@ -5,7 +5,7 @@ A Couple Dead Pixels is a 2D puzzle/ shooter game I developed in Unity for a Gam
 
 ## Installing / Getting started
 
-The respository includes all game assets and scripts. In order to play the game, one must have a copy of unity downloaded. From there, the respository can be downloaded and loaded into Unity, then built for play. 
+The repository includes all game assets and scripts. In order to play the game, one must have a copy of unity downloaded. From there, the repository can be downloaded and loaded into Unity, then built for play. 
 
 ## Features
 
@@ -17,7 +17,7 @@ The game features
 
 ## Contributing
 
-As always, branch and pull requests are glady accepted. I'm hoping to add allies in the future. 
+As always, branch and pull requests are gladly accepted. I'm hoping to add allies in the future. 
 
 ## Links
 
